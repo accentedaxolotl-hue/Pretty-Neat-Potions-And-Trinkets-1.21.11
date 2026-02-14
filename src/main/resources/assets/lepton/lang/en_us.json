@@ -1,0 +1,80 @@
+{
+  "item.lepton.fishywater": "§eBottle of Fishy Water§r",
+  "item.lepton.splashfishywater": "§eSplash Fishy Water§r",
+
+  "item.lepton.catnippotion": "§eCatnip Potion§r",
+  "item.lepton.splashcatnippotion": "§eSplash Catnip Potion§r",
+
+  "item.lepton.luckpotion": "§eLuck Potion§r",
+  "item.lepton.splashluckpotion": "§eSplash Luck Potion§r",
+
+  "item.lepton.lesserluckpotion": "§eLesser Luck Potion§r",
+  "item.lepton.splashlesserluckpotion": "§eSplash Lesser Luck Potion§r",
+
+  "item.lepton.greaterluckpotion": "§eGreater Luck Potion§r",
+  "item.lepton.splashgreaterluckpotion": "§eSplash Greater Luck Potion§r",
+
+  "item.lepton.blessedpotion": "§eBlessed Potion§r",
+  "item.lepton.hauntedpotion": "§eHaunted Potion§r",
+
+  "item.lepton.catnipcharm": "§6Catnip Charm§r",
+  "item.lepton.goldenhorseshoe": "§6Golden Horseshoe§r",
+  "item.lepton.leadboots": "§6Reinforced Iron Boot§r",
+  "item.lepton.reinforcedchestplate": "§6Reinforced Iron Gauntlets§r",
+  "item.lepton.chainedsteelball": "§6Iron Anchor§r",
+
+  "tooltip.lepton.fishywater.detail.line1": "§3Smells like the open sea...§r",
+  "tooltip.lepton.fishywater.detail.line2": "§7Probably not safe to drink§r",
+
+  "tooltip.lepton.splashfishywater.detail.line1": "§3Smells like the open sea...§r",
+  "tooltip.lepton.splashfishywater.detail.line2": "§7Affects nearby players§r",
+
+  "tooltip.lepton.lesserluckpotion.detail.line1": "§eLuck favors you, slightly§r",
+
+  "tooltip.lepton.luckpotion.detail.line1": "§eLuck favors you§r",
+
+  "tooltip.lepton.greaterluckpotion.detail.line1": "§eLuck smiles upon you§r",
+
+  "tooltip.lepton.splashlesserluckpotion.detail.line1": "§eShares a bit of luck§r",
+  "tooltip.lepton.splashluckpotion.detail.line1": "§eShares good fortune§r",
+  "tooltip.lepton.splashgreaterluckpotion.detail.line1": "§eShares great fortune§r",
+
+  "tooltip.lepton.catnippotion.detail.line1": "§aCreepers seem uneasy around you§r",
+
+  "tooltip.lepton.splashcatnippotion.detail.line1": "§aCreepers avoid the splash zone§r",
+
+  "tooltip.lepton.catnipcharm.detail.line1": "§aCreepers keep their distance§r",
+  "tooltip.lepton.catnipcharm.detail.line2": "§7Works while worn§r",
+
+  "tooltip.lepton.goldenhorseshoe.detail.line1": "§6Light as a feather§r",
+  "tooltip.lepton.goldenhorseshoe.detail.line2": "§7Works while worn§r",
+
+  "tooltip.lepton.leadboots.detail.line1": "§eStrong enough to survive TNT§r",
+  "tooltip.lepton.leadboots.detail.line2": "§6Consumes TNT periodically to grant explosively high Jump Boost§r",
+  "tooltip.lepton.leadboots.detail.line3": "§7Movement is slowed while worn§r",
+
+  "tooltip.lepton.reinforcedchestplate.detail.line1": "§eStrong enough to survive TNT§r",
+  "tooltip.lepton.reinforcedchestplate.detail.line2": "§6Consumes TNT periodically to grant explosively high Speed§r",
+  "tooltip.lepton.reinforcedchestplate.detail.line3": "§7Strength is weakened while worn§r",
+
+  "tooltip.lepton.chainedsteelball.detail.line1": "§eIts weight pulls you down§r",
+  "tooltip.lepton.chainedsteelball.detail.line2": "§6Holding it grants you increased defenses§r",
+  "tooltip.lepton.chainedsteelball.detail.line3": "§6Works while worn§r",
+
+  "tooltip.lepton.hauntedpotion.detail.line1": "§8The world turns against you§r",
+  "tooltip.lepton.hauntedpotion.detail.line2": "§7Strength born from fear§r",
+
+  "tooltip.lepton.blessedpotion.detail.line1": "§bA holy warmth surrounds you§r",
+  "tooltip.lepton.blessedpotion.detail.line2": "§7Power comes at a cost§r",
+
+  "title.lepton.potionstab": "Pretty Neat Potions",
+  "title.lepton.trinketsstab": "Pretty Neat Trinkets",
+
+  "effect.lepton.fishyeffect": "Dizzy",
+  "effect.lepton.catnipeffect": "Catnip",
+  "effect.lepton.hauntedeffect": "Haunted",
+  "effect.lepton.blessedeffect": "Blessed",
+
+  "tooltip.lepton.shift.held": "Hold §eShift§r for more information"
+
+}

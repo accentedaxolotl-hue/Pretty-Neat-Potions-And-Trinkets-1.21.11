@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    " G ",
+    " N ",
+    " A "
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "N": "minecraft:phantom_membrane",
+    "A": "minecraft:green_dye"
+  },
+  "result": {
+    "id": "lepton:catnipcharm"
+  }
+}

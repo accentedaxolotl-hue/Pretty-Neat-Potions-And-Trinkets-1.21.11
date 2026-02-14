@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:brewing",
+  "category": "brewing",
+  "ingredient": {
+    "item": "minecraft:nautilus_shell"
+  },
+  "input": {
+    "item": "minecraft:potion",
+    "potion": "minecraft:water"
+  },
+  "result": {
+    "id": "lepton:fishywater"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "combat",
+  "pattern": [
+    "G G",
+    "G G",
+    " G "
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot"
+  },
+  "result": {
+    "id": "lepton:goldenhorseshoe"
+  }
+}

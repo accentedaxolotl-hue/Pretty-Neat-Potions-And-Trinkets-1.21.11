@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:brewing",
+  "category": "brewing",
+  "ingredient": {
+    "item": "minecraft:gunpowder"
+  },
+  "input": {
+    "item": "lepton:fishywater"
+  },
+  "result": {
+    "id": "lepton:splashfishywater"
+  }
+}
